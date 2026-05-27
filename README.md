@@ -24,6 +24,9 @@ This repository contains large files managed by [Git Large File Storage (LFS)](h
 4.  **Access Your Files**:
     
     -   Inside this local repository folder, you will find all the code files. If any files are compressed (zipped), use a tool like [7-Zip](https://www.7-zip.org/) to extract them.
+  
+# learning from COURSERA course: Node-RED: IoT projects with ESP32, MQTT and Docker
+   - https://www.coursera.org/learn/packt-node-red-iot-projects-with-esp32-mqtt-and-docker?utm_medium=sem&utm_source=gg&utm_campaign=b2c_apac_x_multi_ftcof_career-academy_cx_dr_bau_gg_pmax_gc_s1_all_m_hyb_24-03_desktop&campaignid=21108426133&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6498442050&targetid=&extensionid=&placement=&gad_source=1&gad_campaignid=21108426451&gclid=CjwKCAjwidXQBhAZEiwA4egw6PxxJNdd89xSrS516AYinCleRcr4oMqB1eHno6aoSTr-EqlfsFITmhoCOUgQAvD_BwE 
 
 This method ensures that you get an exact copy of the repository, including all files handled by Git LFS, ready for use on your system.
 
